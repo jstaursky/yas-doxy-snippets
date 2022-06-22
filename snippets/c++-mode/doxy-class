@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: doxygen class comment
+# key: dcls
+# --
+/**
+ * @class ${1:class name}
+ *
+ * @brief ${2:class description}
+ *
+ * ${3:<detailed description>}
+ */

@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: doxygen function/method comment
+# key: dfn
+# --
+/**
+ * @brief ${1:function description}
+ *
+ * ${2:<detailed description>}
+ *
+ * @param[${3:in,out}] ${4:param} ${5:<description>}
+ *
+ * @return ${6:return type description}
+ * @note ${7:<optional note>}
+ */

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: doxygen group comment
+# key: dgc
+# --
+/// @name ${1:group name}
+//@{
+`yas-selected-text`$0
+//@}

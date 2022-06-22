@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: doxygen file comment
+# key: dfh
+# --
+/**
+ * @file ${1:filename}
+ *
+ * @brief ${2:brief description}
+ */
